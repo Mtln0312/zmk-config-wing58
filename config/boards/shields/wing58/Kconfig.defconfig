@@ -1,0 +1,6 @@
+if SHIELD_WING58
+
+config ZMK_KEYBOARD_NAME
+    default "wing58"
+
+endif
