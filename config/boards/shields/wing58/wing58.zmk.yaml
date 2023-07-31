@@ -1,0 +1,8 @@
+file_format: "1"
+id: wing58
+name: wing58
+type: shield
+url: https://github.com/FireFly177/wing58/
+requires: [pro_micro]
+features:
+  - keys

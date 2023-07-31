@@ -1,2 +1,2 @@
 config SHIELD_WING58
-    def_bool $(shield_list_contains, wing58)
+    def_bool $(shields_list_contains,wing58)
